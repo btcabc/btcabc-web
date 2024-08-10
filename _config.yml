@@ -27,6 +27,8 @@ twitter_username: btcabcxyz
 
 show_excerpts: true
 
+google_analytics: G-5NDMST7HWB
+
 # Build settings
 theme: minima
 plugins:
